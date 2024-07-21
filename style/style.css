@@ -1,0 +1,52 @@
+
+*{
+    font-family: Arial;
+    margin: 0px;
+    padding: 0px;
+}
+.section{
+    margin-top: 5%;
+}
+h2{
+    color: rgb(176, 111, 40);
+}
+
+input{
+    width: 25%;
+
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+.section{
+    text-align: center;
+    
+}
+#btn{
+    border-radius: 7px;;
+}
+#del{
+    margin:9px;
+    border-radius: 7px;
+}
+button{
+    width: 11%;
+    border-radius: 2px;
+    background-color: rgb(151, 169, 84);
+    color: white;
+    margin:20px;
+}
+span{
+    border: 1px solid;
+    padding: 7px 10px;
+}
+li{
+    list-style-type: none;
+    margin-bottom: 20px;
+
+
+}
+.hi{
+    margin:20px;
+    
+}
